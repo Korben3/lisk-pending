@@ -1,16 +1,16 @@
 {
     "lastPayout": {
-        "date": 1629532053,
-        "rewards": 402600000000,
-        "producedBlocks": 4034
+        "date": 1629615602,
+        "rewards": 410400000000,
+        "producedBlocks": 4112
     },
     "pending": {
-        "lsk57pw74fg4tgx2uzjdja4vxbmouvzw5vbz3bvyo": 87894331,
-        "lskyeh5beq6mbp5efukqesrrotf95skf6rpq6fzu4": 8789431,
-        "lskajfb4mystpab9t87n5z8hprvbj6efzpr57rsky": 20549065
+        "lsk57pw74fg4tgx2uzjdja4vxbmouvzw5vbz3bvyo": 89597201,
+        "lskyeh5beq6mbp5efukqesrrotf95skf6rpq6fzu4": 8959717,
+        "lskajfb4mystpab9t87n5z8hprvbj6efzpr57rsky": 46092127
     },
     "paid": {
-        "lsk6nqfyzpof3xbn8gyvq3k3meusp6d43udgcc6y7": 79104901208,
+        "lsk6nqfyzpof3xbn8gyvq3k3meusp6d43udgcc6y7": 80637484986,
         "lskajfb4mystpab9t87n5z8hprvbj6efzpr57rsky": 1297865953
     },
     "history": [
